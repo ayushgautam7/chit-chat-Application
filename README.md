@@ -29,9 +29,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **View Other user Profile**
 
-**Made By**
-
-**Ayush Gautam**
+**Made By Ayush Gautam**
 
 
 
