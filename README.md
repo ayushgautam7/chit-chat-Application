@@ -13,11 +13,11 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 # Features
 
-### Authenticaton
+**Authenticaton
 
-### Real Time Chatting with Typing indicators
-### One to One chat
-### Search Users
+  Real Time Chatting with Typing indicators
+  One to One chat
+  Search Users **
 ### Create Group Chats
 ### Notifications 
 ### Add or Remove users from group
