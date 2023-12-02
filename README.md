@@ -1,7 +1,7 @@
 
-#CHIT_CHAT
+#CHIT-CHAT-APPLICATION
 
-CHIT_CHAT is a Full Stack Chatting App.
+CHIT-CHAT-APPLICATION is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -10,50 +10,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Server:** Node JS, Express JS
 
 **Database:** Mongo DB
-  
-## Demo
-
-https://talk-a-tive.herokuapp.com/
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
-```
-
-Go to the project directory
-
-```bash
-  cd mern-chat-app
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-```bash
-  cd frontend/
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-Start the Client
-
-```bash
-  //open now terminal
-  cd frontend
-  npm start
-```
-
   
 # Features
 
@@ -67,6 +23,7 @@ Start the Client
 ### Add or Remove users from group
 ### View Other user Profile
 ## Made By
+### Ayush Gautam
 
 
 
